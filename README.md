@@ -50,7 +50,7 @@ python3 phishing_gui.py
 ### 💻 GUI in Action
 | GUI Window | Phishing Result |
 |------------|------------------|
-| ![](screenshots/3_gui_launched.png) | ![](screenshots/5_result_safe.png) |
+| ![](Screenshot_2025-06-23_11_42_44.png) | ![](Screenshot_2025-06-23_11_42_51.png) |
 
 
 
